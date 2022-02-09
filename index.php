@@ -4,7 +4,7 @@
   
 <?php
   
-  $colors = array("red", "green", "blue", "yellow"); 
+  $colors = array("rood", "groen", "blauw", "geel"); 
 
   foreach ($colors as $value) 
   {
